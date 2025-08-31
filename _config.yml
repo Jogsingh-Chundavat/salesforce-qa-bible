@@ -1,0 +1,11 @@
+# Sets the theme to Just the Docs
+remote_theme: just-the-docs/just-the-docs
+
+# The title of your site (appears in the browser tab)
+title: The Salesforce QA Bible
+
+# A short description of your site
+description: The Definitive Guide from Novice to Virtuoso for Salesforce Quality Assurance.
+
+# Enables the search feature
+search_enabled: true
